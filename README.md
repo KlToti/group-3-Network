@@ -16,6 +16,7 @@ Kibana is a data visualization and exploration tool for reviewing logs and event
 For more [reference, click here](https://aws.amazon.com/opensearch-service/the-elk-stack/)
 
 
+
 ![alt text](https://github.com/KlToti/group-3-Network/blob/main/pics/082918_1504_ELKStackTut2.webp)
 
 [Pic reference](https://www.guru99.com/elk-stack-tutorial.html)

@@ -24,6 +24,6 @@ jobs:
         run: terraform plan
 
       - name: Terrafom Apply
-        if: github.ref == 'refs/heads/network_github_action'
+        if: github.ref == 'refs/heads/master'
         run: terraform apply
 
